@@ -1,0 +1,7 @@
+{
+  //Items:
+  "item.testmod.zircon": "Zircon",
+  "item.testmod.zircon_sword": "Zircon Sword",
+  //CreativeModeTabs:
+  "creativemodetab.zircon_tab": "Zircon Tab",
+}
